@@ -8,3 +8,6 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+//Make sure to start questions off about useEffect hook
+
